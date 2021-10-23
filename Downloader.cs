@@ -76,7 +76,7 @@ namespace XVLauncher
             }
             window.Dispatcher.Invoke(() =>
             {
-                window.infoLabel.Content = String.Format(Properties.Langs.Lang.download_progress_unknown, mb, unit, "2GB");
+                window.infoLabel.Content = String.Format(Properties.Langs.Lang.download_progress_unknown, mb, unit, "900MB");
             });
         }
 

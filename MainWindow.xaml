@@ -187,7 +187,7 @@
                 <BlurEffect Radius="20"/>
             </Border.Effect>
         </Border>
-        <Label x:Name="windowName" Content="Your App Name" HorizontalAlignment="Left" Margin="23,1,0,0" VerticalAlignment="Top" Width="361" FontFamily="Barlow Condensed Medium" FontSize="20" Foreground="White" MouseDown="MoveWindow"/>
+        <Label x:Name="windowName" Content="Pokemon: Survival Island" HorizontalAlignment="Left" Margin="23,1,0,0" VerticalAlignment="Top" Width="361" FontFamily="Barlow Condensed Medium" FontSize="20" Foreground="White" MouseDown="MoveWindow"/>
         <Label x:Name="infoLabel" Content="Info label (Here goes speed, status and any info available)" Margin="41,533,191,8" FontFamily="Barlow Condensed" FontSize="14" Foreground="LightGray"/>
         <Border x:Name="optionWindow" Margin="0,42,0,0" Background="#FF23272B" Visibility="Hidden">
             <Grid>

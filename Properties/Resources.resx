@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessToken" xml:space="preserve">
-    <value />
+    <value>TGDj6Um17oiCd2cCkH4T</value>
     <comment>Access token for Git repository. You can get one here (GitLab):
 https://gitlab.com/-/profile/personal_access_tokens
 or here (GitHub):
@@ -137,7 +137,7 @@ https://github.com/settings/tokens</comment>
     <value>#FF1B86FF</value>
   </data>
   <data name="Executable" xml:space="preserve">
-    <value>Test.exe</value>
+    <value>Game.exe</value>
   </data>
   <data name="InstallDirectory" xml:space="preserve">
     <value />
@@ -151,7 +151,7 @@ https://github.com/settings/tokens</comment>
     <comment>Name of the directory inside User\Saved Games\ containg saving data</comment>
   </data>
   <data name="UpdateUrl" xml:space="preserve">
-    <value>https://gitlab.com/sasso-effe/xvlauncher-test/-/raw/{0}/</value>
+    <value>https://gitlab.com/thatonekriegerwriter/Pokemon-Survival-Island-v19/-/raw/{0}/</value>
     <comment>GitLab repo with releases. This is a demo: put here link to your repo</comment>
   </data>
 </root>

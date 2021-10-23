@@ -15,10 +15,10 @@
       <Value Profile="(Default)">na</Value>
     </Setting>
     <Setting Name="ProjectID" Type="System.String" Scope="User">
-      <Value Profile="(Default)">23982414</Value>
+      <Value Profile="(Default)">30560455</Value>
     </Setting>
     <Setting Name="GameDirectory" Type="System.String" Scope="User">
-      <Value Profile="(Default)">TestApp</Value>
+      <Value Profile="(Default)">Pokemon Survival Island</Value>
     </Setting>
     <Setting Name="SaveSelected" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
