@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="XVLauncher.Properties" GeneratedClassName="Settings">
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SSILauncher.Properties" GeneratedClassName="Settings">
   <Profiles />
   <Settings>
     <Setting Name="InstallDirectory" Type="System.String" Scope="User">
@@ -12,7 +12,7 @@
       <Value Profile="(Default)">-1</Value>
     </Setting>
     <Setting Name="Version" Type="System.String" Scope="User">
-      <Value Profile="(Default)">na</Value>
+      <Value Profile="(Default)">1.0.0</Value>
     </Setting>
     <Setting Name="ProjectID" Type="System.String" Scope="User">
       <Value Profile="(Default)">30560455</Value>
